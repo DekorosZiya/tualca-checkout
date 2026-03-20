@@ -1,0 +1,8 @@
+{
+  "name": "tualca-checkout",
+  "version": "1.0.0",
+  "description": "Tualca custom wallpaper checkout via Shopify Draft Orders",
+  "engines": {
+    "node": ">=18"
+  }
+}
